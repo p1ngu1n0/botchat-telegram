@@ -1,14 +1,14 @@
-# botchat-telegram
+# Botchat-telegram
 
 Testeado en python 2.7
 
-##instalacion 
+## Instalacion 
 
 ```bash
 pip install -r requeriments.txt
 ```
 
-##iniciar
+## Iniciar
 
 ```bash
 python bot.py
