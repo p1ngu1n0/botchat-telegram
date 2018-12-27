@@ -14,6 +14,7 @@ Para generar un token necesitas hablar con el creador de bots: [@BotFather](http
 
 ## Iniciar
 
+Para encender el bot es muy facil, usa:
 ```bash
 $ python bot.py
 ```
