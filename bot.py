@@ -23,7 +23,7 @@ def main():
     
     
     #TOKEN
-    bot = telegram.Bot('726569160:AAF10g7z0tnUlJJWq3aGoYfuDbKeK8Jtfco')
+    bot = telegram.Bot('TUTOKENAQUI')
     banner()
     try:
         update_id = bot.get_updates()[0].update_id
